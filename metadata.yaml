@@ -1,0 +1,49 @@
+_repo: The-Flying-Girl-and-Her-Chum_53692
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nuyttens, Josef Pierre
+    aliases:
+    - Nuyttens, Joseph Pierre
+    - Nuyttens, Pierre
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '6436'
+    url: http://www.gutenberg.org/2009/agents/6436
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Staunton, Schuyler
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Capt. Hugh
+    - Bancroft, Laura
+    - Metcalf, Suzanne
+    - Fitzgerald, Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2016-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Seaplanes -- Juvenile fiction'
+- !lcsh 'Robinsonades'
+- !lcsh 'Women air pilots -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Yachts -- Juvenile fiction'
+- GITenberg
+title: The Flying Girl and Her Chum
+url: http://www.gutenberg.org/ebooks/53692
